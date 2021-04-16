@@ -1,0 +1,9 @@
+.book_info {
+    color: aqua;
+    width: 350px;
+    height: 100px;
+    background-color: aquamarine;
+}
+.book_info:hover{
+    background-color: azure;
+}
