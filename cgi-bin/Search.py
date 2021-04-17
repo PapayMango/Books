@@ -21,7 +21,7 @@ print('<p>book title</p>')
 print('<p>' + book + '</p>')
 
 print('<a href="../httpd/books.html">Back</a>')
-# print(pyodbc.drivers())
+
 
 conn_str = (
     r'DRIVER={Microsoft Access Driver (*.mdb, *.accdb)};'
@@ -46,3 +46,4 @@ console.log(id)
 console.log("a")
 }
 </script>''')
+
